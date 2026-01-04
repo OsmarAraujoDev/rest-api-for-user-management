@@ -1,5 +1,4 @@
 const UserService = require('../services/user.service');
-const userValidations = require('../validations/user.validations');
 
 class UserController {
 
