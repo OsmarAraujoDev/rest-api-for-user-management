@@ -1,0 +1,26 @@
+{
+  "name": "rest-api-for-user-and-permission-management",
+  "version": "1.0.0",
+  "description": "API REST de Gestão de Usuários e Permissões (RBAC)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsmarAraujoDev/rest-api-for-user-and-permission-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsmarAraujoDev/rest-api-for-user-and-permission-management/issues"
+  },
+  "homepage": "https://github.com/OsmarAraujoDev/rest-api-for-user-and-permission-management#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mysql2": "^3.16.0",
+    "sequelize": "^6.37.7"
+  }
+}
